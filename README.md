@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠️ Teknologi yang Saya Gunakan
+### 🛠️ Teknologi yang Saya bisa Gunakan
 
 <p align="center">
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
