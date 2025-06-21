@@ -30,17 +30,17 @@
   <table width="100%">
     <tr>
       <td width="70%">
-        <h3>🛒 Aplikasi E-commerce</h3>
+        <h3> Web Aplikasi Manajement StockBarang</h3>
         <p>
-          Sebuah platform e-commerce lengkap yang saya bangun dari nol, menampilkan katalog produk, keranjang belanja, dan proses checkout.
+          Sebuah manejement stock barang yang mengatur jumlah stock barang antar cabang secara real time
           <br/><br/>
-          <a href="[LINK_REPO_PROYEK_ANDA]"><b>Lihat Kode &rarr;</b></a>
+          <a href="https://cahayalancar.com/stockmate/"><b>Lihat Kode &rarr;</b></a>
         </p>
       </td>
       <td width="30%" valign="top">
         <h4>Teknologi yang Digunakan:</h4>
         <p>
-          <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+          <code>Start BootStrap</code> <code>PHP</code> <code>html</code> <code>css</code> <code>js</code>
         </p>
       </td>
     </tr>
